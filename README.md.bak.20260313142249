@@ -4,27 +4,24 @@
 ## Introduction
 ---------------
 
-### Welcome to My Profile
+### Welcome
 
 Hi there! I'm Pedro Muniz, a passionate software developer from Canada. I'm excited to share my projects, skills, and experiences with you.
 
 ## About Me
 ------------
 
-### Brief Overview of My Background
+### Brief Overview
 
 As a software developer, I'm driven by a passion for building innovative solutions. I'm always eager to learn new technologies and collaborate with like-minded individuals.
 
-### Current Activities and Projects
+### Current Activities
 
-#### Projects I'm Currently Working On
+#### Projects
 
-- **Marketplace Platform**: I'm currently working on a marketplace platform, where users can buy and sell products with ease.
-- **Learning and Skill Development**: I'm currently learning Docker, Supabase, and AWS to expand my skill set and stay up-to-date with industry trends.
-
-#### Community Involvement
-
-Feel free to reach out to me through GitHub issues if you have any questions about Node.js, React, Firebase, or anything else. I'm always happy to help and collaborate.
+- **Current Project**: I'm currently working on a marketplace platform, where users can buy and sell products with ease.
+- **Learning**: I'm currently learning Docker, Supabase, and AWS to expand my skill set and stay up-to-date with industry trends.
+- **Community**: Feel free to reach out to me through GitHub issues if you have any questions about Node.js, React, Firebase, or anything else.
 
 #### Fun Fact
 
@@ -42,9 +39,11 @@ If you'd like to connect or discuss a project, feel free to reach out to me thro
 ## Technical Skills
 -------------------
 
-### Programming Languages and Technologies I'm Proficient In
+### Programming Languages and Technologies
 
-#### Front-end Technologies
+I'm proficient in a range of technologies, including:
+
+#### Front-end
 
 - **React**: A popular JavaScript library for building user interfaces.
 - **Bootstrap**: A widely-used front-end framework for building responsive web applications.
@@ -53,7 +52,7 @@ If you'd like to connect or discuss a project, feel free to reach out to me thro
 - **CSS**: A styling language for web pages.
 - **Tailwind**: A utility-first CSS framework for building custom designs.
 
-#### Back-end Technologies
+#### Back-end
 
 - **Node.js**: A popular JavaScript runtime environment for building server-side applications.
 - **Express**: A popular Node.js framework for building web applications.
@@ -68,7 +67,7 @@ If you'd like to connect or discuss a project, feel free to reach out to me thro
 - **Figma**: A popular design tool for building user interfaces.
 - **Git**: A popular version control system for building web applications.
 
-### Other Skills and Experience
+### Other Skills
 
 - **Programming languages**: JavaScript, TypeScript, Python, Java
 - **Frameworks**: Next.js, Flask
